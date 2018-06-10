@@ -1,7 +1,7 @@
 {
   "name": "nanites",
   "version": "1.0.0",
-  "description": "My Pet Bot",
+  "description": "A bot program to manage my projects on GitHub",
   "author": "Ashwin Hegde <ashwin.hegde3@gmail.com>",
   "license": "MIT",
   "main": "./src/index.js",
